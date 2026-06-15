@@ -2,7 +2,7 @@
 
 Interactive web map published via GitHub Pages.
 
-**Live map:** https://alberto98gallodot.github.io/Burn-Scar--South-western-reg/
+**Live map:** https://alberto98gallodot.github.io/Burn-severity-WR/
 
 ## Overview
 Post-fire burn severity assessment for Southern Western Downs (Queensland) using the Differenced Normalised Burn Ratio (dNBR) derived from Landsat 9 OLI-2 Collection 2 Level-2 imagery. Pre-fire scene: September 2023 — Post-fire scene: December 2023.
